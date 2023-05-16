@@ -1,0 +1,296 @@
+570	4777	I work with a bunch of mathematicians, philosophers and computer scientists,
+4777	9986	and we sit around and think about the future of machine intelligence,
+9986	12030	among other things.
+12030	16755	Some people think that some of these things are sort of science fiction-y,
+16755	19856	far out there, crazy.
+19856	21326	But I like to say,
+21326	24930	okay, let's look at the modern human condition.
+24930	26622	(Laughter)
+26622	29024	This is the normal way for things to be.
+29024	31309	But if we think about it,
+31309	34602	we are actually recently arrived guests on this planet,
+34602	36684	the human species.
+36684	41430	Think about if Earth was created one year ago,
+41430	44978	the human species, then, would be 10 minutes old.
+44978	49276	The industrial era started two seconds ago.
+49276	54501	Another way to look at this is to think of world GDP over the last 10,000 years,
+54501	57530	I've actually taken the trouble to plot this for you in a graph. 
+57530	59304	It looks like this.
+59304	60667	(Laughter)
+60667	62818	It's a curious shape for a normal condition.
+62818	64516	I sure wouldn't want to sit on it.
+64516	67067	(Laughter)
+67067	71841	Let's ask ourselves, what is the cause of this current anomaly?
+71841	74393	Some people would say it's technology.
+74393	79061	Now it's true, technology has accumulated through human history,
+79061	83713	and right now, technology advances extremely rapidly --
+83713	85278	that is the proximate cause,
+85278	88473	that's why we are currently so very productive.
+88473	93114	But I like to think back further to the ultimate cause.
+93114	96880	Look at these two highly distinguished gentlemen:
+96880	98480	We have Kanzi --
+98480	103123	he's mastered 200 lexical tokens, an incredible feat.
+103123	106817	And Ed Witten unleashed the second superstring revolution.
+106817	109141	If we look under the hood, this is what we find:
+109141	110711	basically the same thing.
+110711	112524	One is a little larger,
+112524	115282	it maybe also has a few tricks in the exact way it's wired.
+115282	119094	These invisible differences cannot be too complicated, however,
+119094	123379	because there have only been 250,000 generations
+123379	125111	since our last common ancestor.
+125111	130000	We know that complicated mechanisms take a long time to evolve.
+130000	132499	So a bunch of relatively minor changes
+132499	135566	take us from Kanzi to Witten,
+135566	140839	from broken-off tree branches to intercontinental ballistic missiles.
+140839	144774	So this then seems pretty obvious that everything we've achieved,
+144774	146152	and everything we care about,
+146152	152650	depends crucially on some relatively minor changes that made the human mind.
+152650	156312	And the corollary, of course, is that any further changes
+156312	159789	that could significantly change the substrate of thinking
+159789	164321	could have potentially enormous consequences.
+164321	167226	Some of my colleagues think we're on the verge
+167226	171134	of something that could cause a profound change in that substrate,
+171134	174347	and that is machine superintelligence.
+174347	179086	Artificial intelligence used to be about putting commands in a box.
+179086	180751	You would have human programmers
+180751	183886	that would painstakingly handcraft knowledge items.
+183886	185972	You build up these expert systems,
+185972	188296	and they were kind of useful for some purposes,
+188296	190977	but they were very brittle, you couldn't scale them.
+190977	194410	Basically, you got out only what you put in.
+194410	195407	But since then,
+195407	198874	a paradigm shift has taken place in the field of artificial intelligence.
+198874	202394	Today, the action is really around machine learning.
+202394	208511	So rather than handcrafting knowledge representations and features,
+208511	214065	we create algorithms that learn, often from raw perceptual data.
+214065	219063	Basically the same thing that the human infant does.
+219063	223270	The result is A.I. that is not limited to one domain --
+223270	227901	the same system can learn to translate between any pairs of languages,
+227901	233338	or learn to play any computer game on the Atari console.
+233338	235117	Now of course,
+235117	239116	A.I. is still nowhere near having the same powerful, cross-domain
+239116	242335	ability to learn and plan as a human being has.
+242335	244461	The cortex still has some algorithmic tricks
+244461	247886	that we don't yet know how to match in machines.
+247886	249785	So the question is,
+249785	254245	how far are we from being able to match those tricks?
+254245	255328	A couple of years ago,
+255328	258216	we did a survey of some of the world's leading A.I. experts,
+258216	261440	to see what they think, and one of the questions we asked was,
+261440	264793	"By which year do you think there is a 50 percent probability
+264793	268785	that we will have achieved human-level machine intelligence?"
+268785	272968	We defined human-level here as the ability to perform
+272968	275839	almost any job at least as well as an adult human,
+275839	279844	so real human-level, not just within some limited domain.
+279844	283494	And the median answer was 2040 or 2050,
+283494	286300	depending on precisely which group of experts we asked.
+286300	290339	Now, it could happen much, much later, or sooner,
+290339	293259	the truth is nobody really knows.
+293259	297671	What we do know is that the ultimate limit to information processing
+297671	303241	in a machine substrate lies far outside the limits in biological tissue.
+303241	305619	This comes down to physics.
+305619	310337	A biological neuron fires, maybe, at 200 hertz, 200 times a second.
+310337	313931	But even a present-day transistor operates at the Gigahertz.
+313931	319228	Neurons propagate slowly in axons, 100 meters per second, tops.
+319228	323079	But in computers, signals can travel at the speed of light.
+323079	324948	There are also size limitations,
+324948	327975	like a human brain has to fit inside a cranium,
+327975	332736	but a computer can be the size of a warehouse or larger.
+332736	338335	So the potential for superintelligence lies dormant in matter,
+338335	344047	much like the power of the atom lay dormant throughout human history,
+344047	348452	patiently waiting there until 1945.
+348452	349700	In this century,
+349700	353818	scientists may learn to awaken the power of artificial intelligence.
+353818	358406	And I think we might then see an intelligence explosion.
+358406	362363	Now most people, when they think about what is smart and what is dumb,
+362363	365386	I think have in mind a picture roughly like this.
+365386	367984	So at one end we have the village idiot,
+367984	370467	and then far over at the other side
+370467	375223	we have Ed Witten, or Albert Einstein, or whoever your favorite guru is.
+375223	379057	But I think that from the point of view of artificial intelligence,
+379057	383258	the true picture is actually probably more like this:
+383258	386636	AI starts out at this point here, at zero intelligence,
+386636	389647	and then, after many, many years of really hard work,
+389647	393491	maybe eventually we get to mouse-level artificial intelligence,
+393491	395921	something that can navigate cluttered environments
+395921	397908	as well as a mouse can.
+397908	402221	And then, after many, many more years of really hard work, lots of investment,
+402221	406860	maybe eventually we get to chimpanzee-level artificial intelligence.
+406860	410070	And then, after even more years of really, really hard work,
+410070	412983	we get to village idiot artificial intelligence.
+412983	416255	And a few moments later, we are beyond Ed Witten.
+416255	419225	The train doesn't stop at Humanville Station.
+419225	422247	It's likely, rather, to swoosh right by.
+422247	424231	Now this has profound implications,
+424231	428093	particularly when it comes to questions of power.
+428093	429992	For example, chimpanzees are strong --
+429992	435214	pound for pound, a chimpanzee is about twice as strong as a fit human male.
+435214	439828	And yet, the fate of Kanzi and his pals depends a lot more
+439828	445228	on what we humans do than on what the chimpanzees do themselves.
+445228	447542	Once there is superintelligence,
+447542	452451	the fate of humanity may depend on what the superintelligence does.
+452451	453508	Think about it:
+453508	458552	Machine intelligence is the last invention that humanity will ever need to make.
+458552	461525	Machines will then be better at inventing than we are,
+461525	464065	and they'll be doing so on digital timescales.
+464065	468966	What this means is basically a telescoping of the future.
+468966	472524	Think of all the crazy technologies that you could have imagined
+472524	475322	maybe humans could have developed in the fullness of time:
+475322	478580	cures for aging, space colonization,
+478580	482311	self-replicating nanobots or uploading of minds into computers,
+482311	484470	all kinds of science fiction-y stuff
+484470	487207	that's nevertheless consistent with the laws of physics.
+487207	492449	All of this superintelligence could develop, and possibly quite rapidly.
+492449	496007	Now, a superintelligence with such technological maturity
+496007	498186	would be extremely powerful,
+498186	502732	and at least in some scenarios, it would be able to get what it wants.
+502732	509855	We would then have a future that would be shaped by the preferences of this A.I.
+509855	514244	Now a good question is, what are those preferences?
+514244	516013	Here it gets trickier.
+516013	517448	To make any headway with this,
+517448	521934	we must first of all avoid anthropomorphizing.
+521934	525235	And this is ironic because every newspaper article
+525235	530280	about the future of A.I. has a picture of this:
+530280	534414	So I think what we need to do is to conceive of the issue more abstractly,
+534414	537204	not in terms of vivid Hollywood scenarios.
+537204	540821	We need to think of intelligence as an optimization process,
+540821	546470	a process that steers the future into a particular set of configurations.
+546470	549981	A superintelligence is a really strong optimization process.
+549981	554098	It's extremely good at using available means to achieve a state
+554098	556447	in which its goal is realized.
+556447	559119	This means that there is no necessary connection between
+559119	561853	being highly intelligent in this sense,
+561853	567321	and having an objective that we humans would find worthwhile or meaningful.
+567321	571115	Suppose we give an A.I. the goal to make humans smile.
+571115	574097	When the A.I. is weak, it performs useful or amusing actions
+574097	576614	that cause its user to smile.
+576614	579031	When the A.I. becomes superintelligent,
+579031	582554	it realizes that there is a more effective way to achieve this goal:
+582554	584476	take control of the world
+584476	587638	and stick electrodes into the facial muscles of humans
+587638	590579	to cause constant, beaming grins.
+590579	591614	Another example,
+591614	594997	suppose we give A.I. the goal to solve a difficult mathematical problem.
+594997	596934	When the A.I. becomes superintelligent,
+596934	601105	it realizes that the most effective way to get the solution to this problem
+601105	604035	is by transforming the planet into a giant computer,
+604035	606281	so as to increase its thinking capacity.
+606281	609045	And notice that this gives the A.I.s an instrumental reason
+609045	611561	to do things to us that we might not approve of.
+611561	613496	Human beings in this model are threats,
+613496	617207	we could prevent the mathematical problem from being solved.
+617207	620701	Of course, perceivably things won't go wrong in these particular ways;
+620701	622454	these are cartoon examples.
+622454	624393	But the general point here is important:
+624393	627266	if you create a really powerful optimization process
+627266	629500	to maximize for objective x,
+629500	631776	you better make sure that your definition of x
+631776	634835	incorporates everything you care about.
+634835	639219	This is a lesson that's also taught in many a myth.
+639219	644517	King Midas wishes that everything he touches be turned into gold.
+644517	647378	He touches his daughter, she turns into gold.
+647378	649931	He touches his food, it turns into gold.
+649931	652520	This could become practically relevant,
+652520	654590	not just as a metaphor for greed,
+654590	656485	but as an illustration of what happens
+656485	659322	if you create a powerful optimization process
+659322	664111	and give it misconceived or poorly specified goals.
+664111	669300	Now you might say, if a computer starts sticking electrodes into people's faces,
+669300	672555	we'd just shut it off.
+672555	677895	A, this is not necessarily so easy to do if we've grown dependent on the system --
+677895	680627	like, where is the off switch to the Internet?
+680627	685747	B, why haven't the chimpanzees flicked the off switch to humanity,
+685747	687298	or the Neanderthals?
+687298	689964	They certainly had reasons.
+689964	692759	We have an off switch, for example, right here.
+692759	694313	(Choking)
+694313	697238	The reason is that we are an intelligent adversary;
+697238	699966	we can anticipate threats and plan around them.
+699966	702470	But so could a superintelligent agent,
+702470	705724	and it would be much better at that than we are.
+705724	712911	The point is, we should not be confident that we have this under control here.
+712911	716358	And we could try to make our job a little bit easier by, say,
+716358	717948	putting the A.I. in a box,
+717948	719744	like a secure software environment,
+719744	722766	a virtual reality simulation from which it cannot escape.
+722766	726912	But how confident can we be that the A.I. couldn't find a bug.
+726912	730081	Given that merely human hackers find bugs all the time,
+730081	734237	I'd say, probably not very confident.
+734237	738785	So we disconnect the ethernet cable to create an air gap,
+738785	741453	but again, like merely human hackers
+741453	744834	routinely transgress air gaps using social engineering.
+744834	746093	Right now, as I speak,
+746093	748482	I'm sure there is some employee out there somewhere
+748482	751828	who has been talked into handing out her account details
+751828	754574	by somebody claiming to be from the I.T. department.
+754574	756701	More creative scenarios are also possible,
+756701	758016	like if you're the A.I.,
+758016	761548	you can imagine wiggling electrodes around in your internal circuitry
+761548	765010	to create radio waves that you can use to communicate.
+765010	767434	Or maybe you could pretend to malfunction,
+767434	770931	and then when the programmers open you up to see what went wrong with you,
+770931	772867	they look at the source code -- Bam! --
+772867	775314	the manipulation can take place.
+775314	778744	Or it could output the blueprint to a really nifty technology,
+778744	780142	and when we implement it,
+780142	784539	it has some surreptitious side effect that the A.I. had planned.
+784539	788002	The point here is that we should not be confident in our ability
+788002	791810	to keep a superintelligent genie locked up in its bottle forever.
+791810	795034	Sooner or later, it will out.
+795034	798137	I believe that the answer here is to figure out
+798137	803161	how to create superintelligent A.I. such that even if -- when -- it escapes,
+803161	806438	it is still safe because it is fundamentally on our side
+806438	808337	because it shares our values.
+808337	812557	I see no way around this difficult problem.
+812557	816391	Now, I'm actually fairly optimistic that this problem can be solved.
+816391	820294	We wouldn't have to write down a long list of everything we care about,
+820294	823937	or worse yet, spell it out in some computer language
+823937	825391	like C++ or Python,
+825391	828158	that would be a task beyond hopeless.
+828158	832455	Instead, we would create an A.I. that uses its intelligence
+832455	835226	to learn what we value,
+835226	840506	and its motivation system is constructed in such a way that it is motivated
+840506	845738	to pursue our values or to perform actions that it predicts we would approve of.
+845738	849152	We would thus leverage its intelligence as much as possible
+849152	852727	to solve the problem of value-loading.
+852727	854239	This can happen,
+854239	857835	and the outcome could be very good for humanity.
+857835	861792	But it doesn't happen automatically.
+861792	864790	The initial conditions for the intelligence explosion
+864790	867653	might need to be set up in just the right way
+867653	871183	if we are to have a controlled detonation.
+871183	873801	The values that the A.I. has need to match ours,
+873801	875561	not just in the familiar context,
+875561	877999	like where we can easily check how the A.I. behaves,
+877999	881233	but also in all novel contexts that the A.I. might encounter
+881233	882790	in the indefinite future.
+882790	887527	And there are also some esoteric issues that would need to be solved, sorted out:
+887527	889616	the exact details of its decision theory,
+889616	893330	how to deal with logical uncertainty and so forth.
+893330	896432	So the technical problems that need to be solved to make this work
+896432	897545	look quite difficult --
+897545	900925	not as difficult as making a superintelligent A.I.,
+900925	903793	but fairly difficult.
+903793	905488	Here is the worry:
+905488	910172	Making superintelligent A.I. is a really hard challenge.
+910172	912720	Making superintelligent A.I. that is safe
+912720	916216	involves some additional challenge on top of that.
+916216	919703	The risk is that if somebody figures out how to crack the first challenge
+919703	922704	without also having cracked the additional challenge
+922704	925375	of ensuring perfect safety.
+925375	928706	So I think that we should work out a solution
+928706	931528	to the control problem in advance,
+931528	934768	so that we have it available by the time it is needed.
+934768	938275	Now it might be that we cannot solve the entire control problem in advance
+938275	941299	because maybe some elements can only be put in place
+941299	945296	once you know the details of the architecture where it will be implemented.
+945296	948676	But the more of the control problem that we solve in advance,
+948676	952766	the better the odds that the transition to the machine intelligence era
+952766	954306	will go well.
+954306	958950	This to me looks like a thing that is well worth doing
+958950	962282	and I can imagine that if things turn out okay,
+962282	966940	that people a million years from now look back at this century
+966940	970942	and it might well be that they say that the one thing we did that really mattered
+970942	972509	was to get this thing right.
+972509	974198	Thank you.
+974198	974198	(Applause)
